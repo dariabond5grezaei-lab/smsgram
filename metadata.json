@@ -1,0 +1,6 @@
+{
+  "name": "SMSGRAM",
+  "description": "پیام‌رسان پیامک بومی پیشرفته با رابط تلگرامی، دسته‌بندی هوشمند، تقویم شمسی و حریم خصوصی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

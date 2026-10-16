@@ -1,0 +1,238 @@
+<resources>
+    <string name="app_name">SMSGRAM</string>
+    <string name="app_subtitle">پیام‌رسان بومی تلگرامی پیامک</string>
+
+    <!-- Navigation Tabs & Drawer -->
+    <string name="tab_chats">گفتگوها</string>
+    <string name="tab_folders">پوشه‌ها</string>
+    <string name="tab_notes">یادداشت</string>
+    <string name="tab_settings">تنظیمات</string>
+
+    <!-- Drawer Items & Categories -->
+    <string name="all_chats">همه پیام‌ها</string>
+    <string name="personal">شخصی</string>
+    <string name="bank">بانکی</string>
+    <string name="advertising">تبلیغات</string>
+    <string name="services">خدمات</string>
+    <string name="saved_messages">پیام‌های ذخیره شده</string>
+    <string name="folders">پوشه‌ها</string>
+    <string name="contacts">مخاطبین</string>
+    <string name="scheduled_sms">پیام‌های زمان‌بندی شده</string>
+    <string name="trash">سطل بازیافت</string>
+    <string name="canned_templates">پاسخ‌های آماده</string>
+    <string name="rules_engine">قوانین هوشمند دسته‌بندی</string>
+    <string name="blocked_numbers">شماره‌های مسدود</string>
+    <string name="settings">تنظیمات</string>
+    <string name="language">زبان برنامه</string>
+    <string name="select_language">انتخاب زبان برنامه</string>
+    <string name="night_mode">حالت شب</string>
+    <string name="day_mode">حالت روز</string>
+    <string name="default_sms_app">برنامه پیامک پیش‌فرض</string>
+    <string name="default_sms_active">برنامه پیش‌فرض فعال است</string>
+    <string name="tap_to_set_default">برای تنظیم به عنوان پیش‌فرض ضربه بزنید</string>
+
+    <!-- Home Screen -->
+    <string name="search_hint">جستجو در پیام‌ها و مخاطبین…</string>
+    <string name="no_messages_found">پیامکی یافت نشد</string>
+    <string name="no_messages_sub">برای ارسال اولین پیام، دکمه + را لمس کنید</string>
+    <string name="no_search_results">نتیجه‌ای برای «%1$s» پیدا نشد</string>
+    <string name="new_message">پیام جدید</string>
+    <string name="permission_required">دسترسی‌های پیامک نیاز است</string>
+    <string name="permission_description">برای خواندن و ارسال پیامک، لطفاً دسترسی‌های لازم را اعطا کنید.</string>
+    <string name="grant_permissions">اعطای دسترسی</string>
+    <string name="set_as_default">تنظیم به عنوان پیش‌فرض</string>
+    <string name="default_sms_required">برای استفاده از SMSGRAM، لطفاً آن را به عنوان برنامه پیش‌فرض پیامک تنظیم کنید.</string>
+    <string name="default_prompt_title">پیام‌رسان پیش‌فرض پیامک</string>
+    <string name="default_prompt_desc">برای دریافت و ارسال بدون وقفه پیامک‌ها، SMSGRAM را برنامه پیش‌فرض کنید.</string>
+    <string name="conversations_section">گفتگوها</string>
+    <string name="messages_section">پیام‌ها</string>
+    <string name="select">انتخاب</string>
+    <string name="select_all">انتخاب همه</string>
+    <string name="mark_as_read">علامت‌گذاری به عنوان خوانده شده</string>
+    <string name="mark_as_unread">علامت‌گذاری به عنوان خوانده نشده</string>
+    <string name="pin_conversation">سنجاق کردن گفتگو</string>
+    <string name="unpin_conversation">برداشتن سنجاق</string>
+    <string name="move_to_folder">انتقال به پوشه</string>
+    <string name="batch_delete">حذف موارد انتخاب‌شده</string>
+    <string name="batch_delete_confirm">آیا از حذف %1$d گفتگو اطمینان دارید؟ این عملیات غیرقابل بازگشت است.</string>
+
+    <!-- Conversation & Composer -->
+    <string name="type_a_message">نوشتن پیامک…</string>
+    <string name="send">ارسال</string>
+    <string name="schedule">زمان‌بندی ارسال</string>
+    <string name="templates">پاسخ‌های آماده</string>
+    <string name="sim_1">سیم‌کارت ۱</string>
+    <string name="sim_2">سیم‌کارت ۲</string>
+    <string name="today">امروز</string>
+    <string name="yesterday">دیروز</string>
+    <string name="copy_code">کپی کد تایید</string>
+    <string name="copy_card">کپی شماره کارت</string>
+    <string name="call">تماس</string>
+    <string name="open_link">باز کردن پیوند</string>
+    <string name="code_copied">کد تایید کپی شد</string>
+    <string name="card_copied">شماره کارت کپی شد</string>
+    <string name="text_copied">متن کپی شد</string>
+    <string name="message_info">اطلاعات پیام</string>
+    <string name="sent_at">زمان ارسال</string>
+    <string name="delivered_at">زمان تحویل</string>
+    <string name="status_sent">ارسال شده</string>
+    <string name="status_delivered">تحویل داده شده</string>
+    <string name="status_pending">در حال ارسال</string>
+    <string name="status_failed">ناموفق</string>
+    <string name="chars_count">کاراکتر</string>
+    <string name="part_count">بخش</string>
+    <string name="pinned_message">پیام سنجاق شده</string>
+    <string name="unpin">برداشتن سنجاق</string>
+    <string name="cellular_sms">پیامک مخابراتی</string>
+    <string name="set_reminder">تنظیم یادآور</string>
+    <string name="reminder_set">یادآور برای %1$s تنظیم شد</string>
+    <string name="scroll_to_bottom">رفتن به پایین</string>
+
+    <!-- Message Context Actions -->
+    <string name="copy_text">کپی متن</string>
+    <string name="pin_message">سنجاق پیام</string>
+    <string name="delete_message">حذف پیام</string>
+    <string name="create_sender_rule">ایجاد قانون فیلتر فرستنده</string>
+
+    <!-- Folders -->
+    <string name="folders_desc">پوشه‌ها به شما کمک می‌کنند پیام‌های بانکی، کدهای تایید، تبلیغاتی و شخصی را تفکیک کنید.</string>
+    <string name="add_folder">افزودن پوشه جدید</string>
+    <string name="folder_name_fa">نام پوشه (فارسی)</string>
+    <string name="folder_name_en">نام انگلیسی (اختیاری)</string>
+    <string name="default_smart_folder">پوشه پیش‌فرض هوشمند</string>
+    <string name="custom_folder">پوشه سفارشی</string>
+
+    <!-- Saved Messages / Notes -->
+    <string name="saved_notes_title">یادداشت‌های پیامکی</string>
+    <string name="saved_notes_subtitle">یادداشت‌ها و پیامک‌های ذخیره‌شده روی این دستگاه</string>
+    <string name="no_saved_notes">هنوز یادداشتی ذخیره نکرده‌اید</string>
+    <string name="new_note_placeholder">متن یا یادداشت جدید…</string>
+
+    <!-- Trash Bin -->
+    <string name="trash_empty_title">سطل بازیافت خالی است</string>
+    <string name="trash_empty_desc">پیام‌های حذف شده تا ۳۰ روز در این بخش قابل بازیابی هستند.</string>
+    <string name="clear_trash">تخلیه کامل سطل</string>
+    <string name="confirm_clear_trash">آیا مطمئن هستید که می‌خواهید تمام پیام‌های سطل بازیافت را برای همیشه پاک کنید؟ این عملیات غیرقابل بازگشت است.</string>
+    <string name="restore_message">بازیابی پیام</string>
+    <string name="delete_permanently">حذف دائمی</string>
+    <string name="date_deleted">تاریخ حذف: %1$s</string>
+
+    <!-- Rules Engine -->
+    <string name="rules_desc">قوانین خودکار پیامک‌های ورودی را بر اساس سرشماره یا الگوی فرستنده به پوشه‌های انتخابی شما منتقل می‌کنند.</string>
+    <string name="no_rules_title">هیچ قانون فیلتری تعریف نشده است</string>
+    <string name="no_rules_desc">با کلیک روی دکمه افزودن می‌توانید قوانین انتقال پیامک به پوشه‌ها را تعیین کنید.</string>
+    <string name="new_rule">قانون جدید</string>
+    <string name="create_rule">ایجاد قانون فیلتر خودکار</string>
+    <string name="pattern_hint">سرشماره یا الگو (مثلا: +98900* یا 1000*)</string>
+    <string name="explanation_hint">توضیح قانون (اختیاری)</string>
+    <string name="target_folder">پوشه مقصد:</string>
+    <string name="auto_move_to">انتقال خودکار به پوشه: %1$s</string>
+
+    <!-- Scheduled SMS -->
+    <string name="no_scheduled_title">هیچ پیام زمان‌بندی شده‌ای در صف نیست</string>
+    <string name="no_scheduled_desc">هنگام نوشتن پیام در صفحه چت می‌توانید با آیکون ساعت زمان ارسال آن را مشخص کنید.</string>
+    <string name="schedule_time_label">⏰ زمان ارسال: %1$s (%2$s)</string>
+    <string name="schedule_dialog_title">زمان‌بندی ارسال خودکار پیام</string>
+    <string name="ten_min_later">۱۰ دقیقه بعد</string>
+    <string name="thirty_min_later">۳۰ دقیقه بعد</string>
+    <string name="one_hour_later">۱ ساعت بعد</string>
+    <string name="tomorrow_same_time">فردا همین موقع</string>
+
+    <!-- Quick Replies / Canned Templates -->
+    <string name="canned_templates_desc">پاسخ‌های آماده برای ارسال سریع در صفحه گفتگو با یک کلیک:</string>
+    <string name="no_templates_title">هیچ پاسخ آماده‌ای تعریف نشده است</string>
+    <string name="no_templates_desc">با افزودن پاسخ‌های سریع می‌توانید هنگام رانندگی یا جلسه با یک لمس پیام بفرستید.</string>
+    <string name="add_template">افزودن پاسخ آماده جدید</string>
+    <string name="template_title_hint">عنوان (مثلا: در جلسه هستم)</string>
+    <string name="template_content_hint">متن پیام آماده</string>
+
+    <!-- Blocked Numbers -->
+    <string name="blocked_numbers_title">شماره‌های مسدود شده</string>
+    <string name="blocked_desc">پیامک‌های دریافتی از شماره‌های مسدود شده به طور خودکار بیصدا شده و اعلانی برای آنها نمایش داده نمی‌شود.</string>
+    <string name="no_blocked_title">هیچ شماره‌ای مسدود نشده است</string>
+    <string name="no_blocked_desc">پیامک‌های دریافتی از شماره‌های مسدود شده به طور خودکار بیصدا شده و اعلانی برای آنها نمایش داده نمی‌شود.</string>
+    <string name="block_new_number">مسدودسازی شماره جدید</string>
+    <string name="block_sender_dialog">مسدودسازی شماره یا فرستنده</string>
+    <string name="block_address_hint">شماره یا سرشماره (مانند 989000...)</string>
+    <string name="block_name_hint">نام / عنوان دلخواه (اختیاری)</string>
+    <string name="block_reason_hint">علت مسدودی</string>
+    <string name="unblock">رفع مسدودی</string>
+    <string name="unblocked_toast">%1$s از لیست مسدودها خارج شد</string>
+    <string name="blocked_toast">%1$s به لیست مسدودها اضافه شد 🚫</string>
+
+    <!-- Settings -->
+    <string name="settings_title">تنظیمات</string>
+    <string name="messaging_category">پیامک و ارسال</string>
+    <string name="appearance_category">ظاهر و پوسته</string>
+    <string name="security_category">امنیت و حریم خصوصی</string>
+    <string name="data_category">داده‌ها و پشتیبان‌گیری</string>
+    <string name="about_category">درباره</string>
+
+    <string name="theme_setting">تم و رنگ‌بندی</string>
+    <string name="font_family_setting">فونت فارسی</string>
+    <string name="font_size_setting">اندازه قلم پیام‌ها</string>
+    <string name="persian_digits_setting">نمایش ارقام به فارسی (۱۲۳)</string>
+    <string name="persian_digits_desc">تبدیل تمام اعداد، ساعت و شماره‌ها به فونت فارسی</string>
+    <string name="delivery_reports_setting">گزارش تحویل پیامک (Delivery)</string>
+    <string name="delivery_reports_desc">درخواست تایید تحویل پیامک از مخابرات</string>
+    <string name="sim_manager_setting">مدیریت سیم‌کارت‌های دوگانه</string>
+    <string name="app_lock_setting">قفل برنامه با پین / اثر انگشت</string>
+    <string name="app_lock_desc">درخواست رمز عبور هنگام باز کردن برنامه</string>
+    <string name="biometric_auth_setting">بازگشایی با بیومتریک</string>
+    <string name="biometric_auth_desc">استفاده از اثر انگشت یا تشخیص چهره</string>
+    <string name="auto_lock_setting">زمان قفل خودکار</string>
+    <string name="hide_recents_setting">مخفی‌سازی در برنامه‌های اخیر</string>
+    <string name="hide_recents_desc">پوشاندن پیش‌نمایش برنامه در Recent Apps جهت حفظ حریم شخصی</string>
+    <string name="notif_privacy_setting">حالت محرمانه اعلان‌ها</string>
+    <string name="notif_privacy_desc">مخفی کردن نام فرستنده و متن پیام در صفحه قفل گوشی</string>
+    <string name="auto_delete_otp_setting">پاکسازی خودکار پیامک‌های رمز پویا</string>
+    <string name="auto_delete_otp_desc">حذف هوشمند پیام‌های حاوی کد تایید پس از ساعات تعیین‌شده</string>
+    <string name="disabled">غیرفعال</string>
+    <string name="after_hours">%1$d ساعت بعد</string>
+    <string name="immediately">بلافاصله</string>
+    <string name="minutes_count">%1$d دقیقه</string>
+    <string name="export_backup">خروجی پشتیبان (JSON)</string>
+    <string name="export_backup_desc">پشتیبان‌گیری کامل از پوشه‌ها، قوانین و پاسخ‌های آماده</string>
+    <string name="import_backup">بازیابی اطلاعات (JSON)</string>
+    <string name="import_backup_desc">بازگردانی فایل پشتیبان قبلی به شکل کاملاً آفلاین</string>
+    <string name="paste_backup_json">متن JSON پشتیبان را وارد کنید:</string>
+    <string name="support_telegram">ارتباط مستقیم و پشتیبانی در تلگرام</string>
+
+    <!-- Lock Screen -->
+    <string name="enter_passcode">رمز عبور را وارد کنید</string>
+    <string name="set_new_passcode">تعیین رمز عبور جدید (۴ تا ۶ رقم)</string>
+    <string name="confirm_passcode">تکرار رمز عبور جدید</string>
+    <string name="passcode_mismatch">رمز عبور وارد شده مطابقت ندارد</string>
+    <string name="passcode_saved">رمز عبور با موفقیت ذخیره شد</string>
+    <string name="wrong_passcode">رمز عبور نادرست است</string>
+    <string name="biometric_prompt_title">بازگشایی SMSGRAM</string>
+    <string name="biometric_prompt_sub">برای ورود از اثر انگشت یا تشخیص چهره استفاده کنید</string>
+
+    <!-- Dual SIM Modal -->
+    <string name="dual_sim_modal_title">مدیریت سیم‌کارت‌های دوگانه</string>
+    <string name="default_sim_title">سیم‌کارت پیش‌فرض ارسال:</string>
+    <string name="no_active_sim">هیچ سیم‌کارت فعالی شناسایی نشد</string>
+    <string name="slot_label">اسلات %1$d</string>
+
+    <!-- Notifications & Receivers -->
+    <string name="unknown_sender">ناشناس</string>
+    <string name="notif_channel_messages">پیام‌های دریافتی</string>
+    <string name="notif_channel_messages_desc">اعلان دریافت پیامک‌های جدید در SMSGRAM</string>
+    <string name="notif_channel_reminders">یادآورهای پیامک (Reminders)</string>
+    <string name="notif_channel_reminders_desc">اعلان یادآوری پیامک‌های زمان‌بندی شده</string>
+    <string name="quick_reply_hint">پاسخ سریع…</string>
+    <string name="reply">پاسخ</string>
+    <string name="new_message_received">پیام جدید دریافت شد</string>
+    <string name="reminder_notif_title">⏰ یادآور پیامک: %1$s</string>
+
+    <!-- Common Actions -->
+    <string name="cancel">انصراف</string>
+    <string name="confirm">تایید</string>
+    <string name="save">ذخیره</string>
+    <string name="delete">حذف</string>
+    <string name="edit">ویرایش</string>
+    <string name="back">بازگشت</string>
+    <string name="close">بستن</string>
+    <string name="done">انجام شد</string>
+    <string name="undo">بازگردانی</string>
+</resources>

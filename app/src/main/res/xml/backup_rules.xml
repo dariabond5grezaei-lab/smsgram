@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <exclude domain="sharedpref" path="smsgram_prefs.xml" />
+    <exclude domain="database" path="smsgram_internal.db" />
+    <exclude domain="database" path="smsgram_internal.db-wal" />
+    <exclude domain="database" path="smsgram_internal.db-shm" />
+</full-backup-content>
